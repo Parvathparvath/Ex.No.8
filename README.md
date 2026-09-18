@@ -1,6 +1,6 @@
 # Ex.No.8 – Reproducing an Image Using Prompts for Image Generation
 
-## Date: 18/09/2026
+## Date: 04/09/2026
 ## Name : PARVATH J
 ## Register No.: 212223060193
 
